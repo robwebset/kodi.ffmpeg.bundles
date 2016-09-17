@@ -1,0 +1,6 @@
+v1.0.0 (2016-09-17)
+- FFmpeg libraries (v2.6):
+	https://github.com/chloette/FFmpegAdapter/tree/master/android/FFmpegAdapter/libs/armeabi-v7a
+- FFmpeg executable (v3.0.1):
+	https://github.com/WritingMinds/ffmpeg-android/releases
+
